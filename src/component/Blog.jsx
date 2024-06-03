@@ -14,8 +14,6 @@ const Blog = () => {
                 <h2 className='font-pop font-bold text-[#262626] text-[24px] lg:text-[48px] lg:mx-0 mx-2' data-aos="flip-up">Project</h2>
                 <div className='pt-[50px]'>
                     <ul>
-                    <li className='py-4 font-pop font-medium text-[#262626] text-[18px] ' data-aos="fade-left" >Portfolio: <span className='text-[#0000ff83]'><a href="https://moonlit-pie-6767c8.netlify.app">https://moonlit-pie-6767c8.netlify.app</a></span></li>
-
                     <li className='py-4 font-pop font-medium text-[#262626] text-[18px]' data-aos="fade-right">E-commerce: <span className='text-[#0000ff83]'><a href="https://silly-tartufo-6f3cb2.netlify.app">https://silly-tartufo-6f3cb2.netlify.app</a></span> </li>
 
                     <li className='py-4 font-pop font-medium text-[#0000ff83] text-[18px]' data-aos="fade-left"> <a href="https://fascinating-crisp-98dcf8.netlify.app">https://fascinating-crisp-98dcf8.netlify.app</a></li>
